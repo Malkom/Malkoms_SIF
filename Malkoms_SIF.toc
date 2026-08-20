@@ -1,0 +1,12 @@
+## Interface: 120100
+## Title: Malkoms Set Icon Filter
+## Notes: Adds a class filter dropdown next to the equipment set icon picker to filter icons by class (spell/talent icons).
+## Notes-frFR: Ajoute une liste déroulante de filtrage par classe au sélecteur d'icône de set d'équipement (icônes des sorts/talents de la classe).
+## Author: Malkom
+## Version: 1.1.0
+## X-License: GPLv3
+## X-Curse-Project-ID: 0000000
+## OptionalDeps: ElvUI
+
+Core.lua
+Filter.lua
