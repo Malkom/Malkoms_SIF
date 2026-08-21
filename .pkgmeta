@@ -1,6 +1,11 @@
 enable-nolib-creation: no
 license-output: LICENSE
 
+manual-changelog:
+  filename: CHANGELOG_current.md
+  markup-type: markdown
+
 ignore:
+  - "CHANGELOG_current.md"
   - ".github"
   - "README.md"
